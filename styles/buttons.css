@@ -1,0 +1,7 @@
+.btn.btn-primary {
+    @apply bg-brand border-0 focus:outline-none hover:bg-brand-dark text-lg text-black;
+  }
+  
+.btn.btn-secondary {
+  @apply bg-gray-500 border-0 focus:outline-none hover:bg-gray-700 text-lg text-white;
+}
